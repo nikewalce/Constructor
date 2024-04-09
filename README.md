@@ -11,6 +11,6 @@
 - Вверхняя спинка(Upper_back) 44х22х4 1шт фанера
 - Саморезы(Screws) 12шт
 - Столярный клей(Glue) 200г
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![img.png](Images/img.png)
+![img_1.png](Images/img_1.png)
+![img_2.png](Images/img_2.png)
